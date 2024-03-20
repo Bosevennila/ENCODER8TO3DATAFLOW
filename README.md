@@ -55,10 +55,17 @@ endmodule
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
+
 ![Screenshot 2024-03-20 164348](https://github.com/Bosevennila/ENCODER8TO3DATAFLOW/assets/144870486/0861d6e0-71a0-4852-8e94-38b194d19cdd)
 
+
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
+
 ![Screenshot 2024-03-20 164429](https://github.com/Bosevennila/ENCODER8TO3DATAFLOW/assets/144870486/f32e4524-5b16-4aa5-849c-cb1aeb98993d)
+
 
 **RESULTS**
 Thus ENCODER 8TO3 DATAFLOW Modelling is running successfully.
